@@ -1,0 +1,12 @@
+; C:\Mina\Infineon\Repo\CAN_cfg_CANFD_V1.2.xmt
+;   CAN messages saved by PCAN-View v5.3.0.942
+;
+; Columns descriptions:
+; ~~~~~~~~~~~~~~~~~~~~~
+; +Message ID
+; |            +Cycle time in ms (0=manual)
+; |            |  +Data length
+; |            |  |  +Frame type
+; |            |  |  |  +Message data
+; |            |  |  |  |
+105h         150  8  F 00h 00h 00h 00h 00h 00h 00h 00h
